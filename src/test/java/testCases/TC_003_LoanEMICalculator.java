@@ -38,6 +38,7 @@ public class TC_003_LoanEMICalculator extends BaseClass {
 	@Test(priority=1, dependsOnMethods = "selectEMICalculator", groups= {"regression"})
 	public void textBoxValidation() {
 		loanCalculator = new LoanCalculator(driver);
+		// test
 		try {
 			//SoftAssert softAssert = new SoftAssert();
 			System.out.println("UI checks for EMI Calculator");
