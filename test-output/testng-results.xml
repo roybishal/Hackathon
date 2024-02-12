@@ -2,7 +2,7 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-12T10:55:22 IST" name="Suite" finished-at="2024-02-12T10:55:34 IST" duration-ms="11915">
+  <suite started-at="2024-02-12T14:56:45 IST" name="Suite" finished-at="2024-02-12T14:57:04 IST" duration-ms="19072">
     <groups>
       <group name="regression">
         <method signature="TC_001_CarLoan.CarEMICalculator()[pri:0, instance:testCases.TC_001_CarLoan@71809907]" name="CarEMICalculator" class="testCases.TC_001_CarLoan"/>
@@ -11,9 +11,9 @@
         <method signature="TC_001_CarLoan.CarEMICalculator()[pri:0, instance:testCases.TC_001_CarLoan@71809907]" name="CarEMICalculator" class="testCases.TC_001_CarLoan"/>
       </group> <!-- smoke -->
     </groups>
-    <test started-at="2024-02-12T10:55:22 IST" name="Test" finished-at="2024-02-12T10:55:34 IST" duration-ms="11915">
+    <test started-at="2024-02-12T14:56:45 IST" name="Test" finished-at="2024-02-12T14:57:04 IST" duration-ms="19072">
       <class name="testCases.TC_001_CarLoan">
-        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_001_CarLoan@71809907]" started-at="2024-02-12T10:55:23 IST" name="setup" finished-at="2024-02-12T10:55:29 IST" duration-ms="5836" status="PASS">
+        <test-method is-config="true" signature="setup(java.lang.String,java.lang.String)[pri:0, instance:testCases.TC_001_CarLoan@71809907]" started-at="2024-02-12T14:56:45 IST" name="setup" finished-at="2024-02-12T14:56:55 IST" duration-ms="10439" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -29,11 +29,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method signature="CarEMICalculator()[pri:0, instance:testCases.TC_001_CarLoan@71809907]" started-at="2024-02-12T10:55:29 IST" name="CarEMICalculator" finished-at="2024-02-12T10:55:33 IST" duration-ms="4477" status="PASS">
+        <test-method signature="CarEMICalculator()[pri:0, instance:testCases.TC_001_CarLoan@71809907]" started-at="2024-02-12T14:56:55 IST" name="CarEMICalculator" finished-at="2024-02-12T14:57:02 IST" duration-ms="6548" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- CarEMICalculator -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_CarLoan@71809907]" started-at="2024-02-12T10:55:33 IST" name="tearDown" finished-at="2024-02-12T10:55:34 IST" duration-ms="1096" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:testCases.TC_001_CarLoan@71809907]" started-at="2024-02-12T14:57:02 IST" name="tearDown" finished-at="2024-02-12T14:57:04 IST" duration-ms="1273" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->

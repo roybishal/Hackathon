@@ -25,10 +25,10 @@ public class TC_001_CarLoan extends BaseClass{
 			softAssert.assertEquals(actValue, "1,31,525");
 			
 			String febPrincipalAmt = carLoan.get1stMonthPrincipalAmount();
-			softAssert.assertEquals(febPrincipalAmt, "₹ 1,19,650");
+			softAssert.assertEquals(febPrincipalAmt, "1,19,650");
 			
 			String febInterestAmt = carLoan.get1stMonthInterestAmount();
-			softAssert.assertEquals(febInterestAmt, "₹ 11,875");
+			softAssert.assertEquals(febInterestAmt, "11,875");
 			
 			softAssert.assertAll();
 			

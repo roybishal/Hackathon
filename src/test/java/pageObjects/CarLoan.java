@@ -98,7 +98,7 @@ public class CarLoan extends BasePage {
 		tableCell2024Btn_Loc.click();
 		String principal =  firstmonthPrincipalAmt_Loc.getText();
 		System.out.println("Principal Amount for 1st Month : "+principal);
-		return principal;
+		return principal.substring(2);
 	}
 	
 	public String get1stMonthInterestAmount() throws IOException {
@@ -106,6 +106,6 @@ public class CarLoan extends BasePage {
 		System.out.println("Interest for 1st Month : "+interest);
 		ss.takeSS(driver, "firstMonthPripcipal&Interest");
 		System.out.println("=================================================================================");
-		return interest;
+		return interest.substring(2);
 	}
 }
