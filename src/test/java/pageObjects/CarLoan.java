@@ -54,13 +54,16 @@ public class CarLoan extends BasePage {
 	
 	public void setLoanAmount() throws IOException {
 		String loanAmt = excel.getCellData("CarLoan", 1, 0);
+		highlightElement(carLoan);
 		carLoan.click();
+		highlightElement(loanAmount);
 		loanAmount.click();
 		action.keyDown(Keys.CONTROL).sendKeys("a").keyUp(Keys.CONTROL).sendKeys(Keys.BACK_SPACE).sendKeys(loanAmount , loanAmt).sendKeys(Keys.ENTER).build().perform();
 	}
 	
 	public void setInteretRate() throws IOException {
 		String Interest_rate = excel.getCellData("CarLoan", 1, 1);
+		highlightElement(interestRate);
 		interestRate.click();
 		action.keyDown(Keys.CONTROL).sendKeys("a").keyUp(Keys.CONTROL).sendKeys(Keys.BACK_SPACE).sendKeys(interestRate , Interest_rate).sendKeys(Keys.ENTER).build().perform();
 		try {
@@ -71,7 +74,8 @@ public class CarLoan extends BasePage {
 	}
 	
 	public void setLoanTenure() throws IOException {
-		String loan_tenure = excel.getCellData("CarLoan", 1, 2);		
+		String loan_tenure = excel.getCellData("CarLoan", 1, 2);
+		highlightElement(loanTenure);
 		loanTenure.clear();
 		loanTenure.click();
 		action.keyDown(Keys.CONTROL).sendKeys("a").keyUp(Keys.CONTROL).sendKeys(Keys.BACK_SPACE).sendKeys(loanTenure , loan_tenure).sendKeys(Keys.ENTER).build().perform();
