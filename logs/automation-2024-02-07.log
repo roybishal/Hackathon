@@ -1,0 +1,62 @@
+09:37:53.863 [main] INFO  testCases.TC_001_CarLoan - Setting Loan tenure
+09:37:56.483 [main] INFO  testCases.TC_001_CarLoan - *** Finished TC_001_CarLoan ***
+09:38:07.936 [main] INFO  testCases.TC_002_HomeLoan - *** Starting TC_002_homeLoan ***
+09:38:14.119 [main] INFO  testCases.TC_002_HomeLoan - Setting loan Amount
+09:38:22.494 [main] INFO  testCases.TC_002_HomeLoan - Setting interest Rate 
+09:38:29.273 [main] INFO  testCases.TC_002_HomeLoan - Setting Loan Tenure 
+09:38:32.788 [main] INFO  testCases.TC_002_HomeLoan - Writing Data into the Excel File
+09:50:43.746 [main] INFO  testCases.TC_001_CarLoan - *** Starting TC_001_CarLoan ***
+09:50:44.606 [main] INFO  testCases.TC_001_CarLoan - Setting Loan Amount Value
+09:50:47.177 [main] INFO  testCases.TC_001_CarLoan - Setting Interest Rate
+09:50:47.864 [main] INFO  testCases.TC_001_CarLoan - Setting Loan tenure
+09:50:50.275 [main] INFO  testCases.TC_001_CarLoan - *** Finished TC_001_CarLoan ***
+09:51:04.784 [main] INFO  testCases.TC_002_HomeLoan - *** Starting TC_002_homeLoan ***
+09:51:05.386 [main] INFO  testCases.TC_002_HomeLoan - Setting loan Amount
+09:51:08.147 [main] INFO  testCases.TC_002_HomeLoan - Setting interest Rate 
+09:51:08.917 [main] INFO  testCases.TC_002_HomeLoan - Setting Loan Tenure 
+09:51:12.361 [main] INFO  testCases.TC_002_HomeLoan - Writing Data into the Excel File
+11:56:36.639 [main] INFO  testCases.TC_001_CarLoan - *** Starting TC_001_CarLoan ***
+11:56:37.626 [main] INFO  testCases.TC_001_CarLoan - Setting Loan Amount Value
+11:56:40.374 [main] INFO  testCases.TC_001_CarLoan - Setting Interest Rate
+11:56:41.227 [main] INFO  testCases.TC_001_CarLoan - Setting Loan tenure
+11:56:43.713 [main] INFO  testCases.TC_001_CarLoan - *** Finished TC_001_CarLoan ***
+11:56:53.837 [main] INFO  testCases.TC_002_HomeLoan - *** Starting TC_002_homeLoan ***
+11:56:54.742 [main] INFO  testCases.TC_002_HomeLoan - Setting loan Amount
+11:56:57.451 [main] INFO  testCases.TC_002_HomeLoan - Setting interest Rate 
+11:56:58.270 [main] INFO  testCases.TC_002_HomeLoan - Setting Loan Tenure 
+11:57:00.497 [main] INFO  testCases.TC_002_HomeLoan - Writing Data into the Excel File
+12:04:57.188 [main] INFO  testCases.TC_001_CarLoan - *** Starting TC_001_CarLoan ***
+12:04:58.066 [main] INFO  testCases.TC_001_CarLoan - Setting Loan Amount Value
+12:05:00.766 [main] INFO  testCases.TC_001_CarLoan - Setting Interest Rate
+12:05:01.423 [main] INFO  testCases.TC_001_CarLoan - Setting Loan tenure
+12:05:03.842 [main] INFO  testCases.TC_001_CarLoan - *** Finished TC_001_CarLoan ***
+12:05:13.407 [main] INFO  testCases.TC_002_HomeLoan - *** Starting TC_002_homeLoan ***
+12:05:14.043 [main] INFO  testCases.TC_002_HomeLoan - Setting loan Amount
+12:05:16.600 [main] INFO  testCases.TC_002_HomeLoan - Setting interest Rate 
+12:05:17.388 [main] INFO  testCases.TC_002_HomeLoan - Setting Loan Tenure 
+12:05:19.574 [main] INFO  testCases.TC_002_HomeLoan - Writing Data into the Excel File
+12:07:45.017 [main] INFO  testCases.TC_001_CarLoan - *** Starting TC_001_CarLoan ***
+12:07:45.813 [main] INFO  testCases.TC_001_CarLoan - Setting Loan Amount Value
+12:07:48.309 [main] INFO  testCases.TC_001_CarLoan - Setting Interest Rate
+12:07:48.993 [main] INFO  testCases.TC_001_CarLoan - Setting Loan tenure
+12:07:51.397 [main] INFO  testCases.TC_001_CarLoan - *** Finished TC_001_CarLoan ***
+12:08:01.552 [main] INFO  testCases.TC_002_HomeLoan - *** Starting TC_002_homeLoan ***
+12:08:02.204 [main] INFO  testCases.TC_002_HomeLoan - Setting loan Amount
+12:08:04.852 [main] INFO  testCases.TC_002_HomeLoan - Setting interest Rate 
+12:08:05.681 [main] INFO  testCases.TC_002_HomeLoan - Setting Loan Tenure 
+12:08:08.093 [main] INFO  testCases.TC_002_HomeLoan - Writing Data into the Excel File
+12:13:17.604 [main] INFO  testCases.TC_001_CarLoan - *** Starting TC_001_CarLoan ***
+12:13:18.451 [main] INFO  testCases.TC_001_CarLoan - Setting Loan Amount Value
+12:13:20.998 [main] INFO  testCases.TC_001_CarLoan - Setting Interest Rate
+12:13:21.668 [main] INFO  testCases.TC_001_CarLoan - Setting Loan tenure
+12:13:24.048 [main] INFO  testCases.TC_001_CarLoan - *** Finished TC_001_CarLoan ***
+12:13:33.775 [main] INFO  testCases.TC_002_HomeLoan - *** Starting TC_002_homeLoan ***
+12:13:34.678 [main] INFO  testCases.TC_002_HomeLoan - Setting loan Amount
+12:13:37.274 [main] INFO  testCases.TC_002_HomeLoan - Setting interest Rate 
+12:13:38.135 [main] INFO  testCases.TC_002_HomeLoan - Setting Loan Tenure 
+12:13:41.699 [main] INFO  testCases.TC_002_HomeLoan - Writing Data into the Excel File
+12:19:48.085 [main] INFO  testCases.TC_001_CarLoan - *** Starting TC_001_CarLoan ***
+12:19:48.928 [main] INFO  testCases.TC_001_CarLoan - Setting Loan Amount Value
+12:19:51.464 [main] INFO  testCases.TC_001_CarLoan - Setting Interest Rate
+12:19:52.363 [main] INFO  testCases.TC_001_CarLoan - Setting Loan tenure
+12:19:54.828 [main] INFO  testCases.TC_001_CarLoan - *** Finished TC_001_CarLoan ***
